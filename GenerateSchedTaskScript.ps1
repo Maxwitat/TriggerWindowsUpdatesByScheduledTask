@@ -1,6 +1,6 @@
 ﻿# GenerateUpdateScript
 # Define the remote machines
-$remoteMachines = @("anveo20.buehnen-gruppe.local",
+$remoteMachines = @(
     "svr1",	
 	"svr2",	
 	"svr3"
