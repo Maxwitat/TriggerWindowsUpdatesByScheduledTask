@@ -1,36 +1,9 @@
 ﻿# GenerateUpdateScript
 # Define the remote machines
 $remoteMachines = @("anveo20.buehnen-gruppe.local",
-    "archiv04.buehnen-gruppe.local",	
-	"b360ape.buehnen-gruppe.local",	
-	"b360api.buehnen-gruppe.local",	
-	"b360db.buehnen-gruppe.local",	
-	"bc-ap.buehnen-gruppe.local",	
-	"bc-ap23.buehnen-gruppe.local",	
-	"bc-appl.buehnen-gruppe.local",	
-	"bc-db.buehnen-gruppe.local",	
-	"bex-ap.buehnen-gruppe.local",
-	"bex-db.buehnen-gruppe.local",	
-	"ca01.buehnen-gruppe.local",	
-	"chronos.buehnen-gruppe.local",	
-	"d3app1.buehnen-gruppe.local",	
-	"d3app2.buehnen-gruppe.local",	
-	"d3core.buehnen-gruppe.local",	
-	"d3sql.buehnen-gruppe.local",	
-	"d3web.buehnen-gruppe.local",	
-	"de-sql03.buehnen-gruppe.local",	
-	"de-sql04.buehnen-gruppe.local",	
-	"dhcp.buehnen-gruppe.local",	
-	"exchange-02.buehnen-gruppe.local",
-	"file-server02.buehnen-gruppe.local",
-	"intranet2020.buehnen-gruppe.local",
-	"ksdb2020.buehnen-gruppe.local",	
-	"print-server01.buehnen-gruppe.local",
-	"roxtra02.buehnen-gruppe.local",	
-	"termserver05.buehnen-gruppe.local",
-	"termserver06.buehnen-gruppe.local",
-	"toscc22.buehnen-gruppe.local",	
-	"txphone.buehnen-gruppe.local"
+    "svr1",	
+	"svr2",	
+	"svr3"
 )
 
 # Define the script content
